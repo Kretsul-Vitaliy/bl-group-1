@@ -1,0 +1,3 @@
+aplicationsErrorsCodes 
+100 - mongo db connection error
+25000 - email server error
