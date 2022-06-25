@@ -1,0 +1,11 @@
+aplicationsErrorsCodes 
+100 - mongo db connection error
+25000 - email server error
+
+TODO
+
+1.Сделать доступ по owner
+2.Сделать доступ по roles
+3.Сделать DAL
+4.Загрузка image в cloudinary
+5.validation вводимых данных
